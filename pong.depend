@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1480871095 source:/home/lomexi/Desktop/Ramie/tryouts- freeglut/main.cpp
+	<iostream>
+	"Prostokat.h"
+	<vector>
+	<ctime>
+	<GL/freeglut.h>
+	"sKolor.h"
+
+1480628681 /home/lomexi/Desktop/Ramie/tryouts- freeglut/Prostokat.h
+	"sKolor.h"
+
+1480618479 /home/lomexi/Desktop/Ramie/tryouts- freeglut/sKolor.h
+
+1480628814 source:/home/lomexi/Desktop/Ramie/tryouts- freeglut/Prostokat.cpp
+	"Prostokat.h"
+	<GL/freeglut.h>
+	<iostream>
+
+1481127570 source:/home/lomexi/Desktop/C++CodeBlocks/Ramie1/Ramie/main.cpp
+	<iostream>
+	"Prostokat.h"
+	<vector>
+	<ctime>
+	<GL/freeglut.h>
+	"sKolor.h"
+
+1481212589 /home/lomexi/Desktop/C++CodeBlocks/Ramie1/Ramie/Prostokat.h
+	"sKolor.h"
+
+1481212589 /home/lomexi/Desktop/C++CodeBlocks/Ramie1/Ramie/sKolor.h
+
+1481212589 source:/home/lomexi/Desktop/C++CodeBlocks/Ramie1/Ramie/Prostokat.cpp
+	"Prostokat.h"
+	<GL/freeglut.h>
+	<iostream>
+
