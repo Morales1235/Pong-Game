@@ -12,6 +12,7 @@ CONFIG += c++11
 
 # Input
 HEADERS += Prostokat.h sKolor.h \
-    ball.h
+    ball.h \
+    main.h
 SOURCES += main.cpp Prostokat.cpp \
     ball.cpp
